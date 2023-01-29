@@ -7,7 +7,7 @@
 
 ## 2 - Migração dos dados para o banco Postgresql
 
-* Criei um servidor e uma tabela localhost para enviar o dataset e seus dados.
+* Criei um servidor e uma tabela localhost para enviar os dados do dataset.
 * Escolhi o banco Postgresql.
 
 ![image](https://user-images.githubusercontent.com/94087850/215145824-dde43e19-86c4-4b90-8b25-2f6a892f412a.png)
