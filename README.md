@@ -21,7 +21,7 @@
 ![image](https://user-images.githubusercontent.com/94087850/215151502-d3e963d8-783e-4741-ade7-f5d68eca3c8d.png)
 
 
-## Construído com
+## Construído com:
 
 * Python
 * Power BI
