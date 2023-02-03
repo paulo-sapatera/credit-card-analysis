@@ -3,7 +3,7 @@
 ## 1 - Manipulação dos dados em Python
 
 * Baixei um arquivo CSV no Kaggle
-* Li o CSV no Python para manipular os dados como tipagem de colunas, remoção e adição de novas colunas, correção de alguns dados...
+* Li o CSV no Python para manipular os dados como tipagem de colunas, remoção e adição de novas colunas, correção de alguns dados.
 
 ## 2 - Migração dos dados para o banco Postgresql
 
